@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @benjaminkim-github
+- 👀 I’m interested in web and game developement
+- 📫 Contact: benjaminkim.email@gmail.com
